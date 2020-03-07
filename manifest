@@ -1,3 +1,4 @@
+SeedVault
 00001-custom-boot-animation.sh
 0002-set-cloudflare-dns-default.patch
 0003-set-seedvault-as-dftl-bkp-provider.patch
